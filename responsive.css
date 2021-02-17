@@ -1,0 +1,10 @@
+@media only screen and (min-width:481px) and (max-width:768px){
+    #header{
+        background-color: #067eb0;
+    }
+}
+@media only screen and (min-width:320px) and (max-width:480px){
+    #header{
+        background-color: #aa0303;
+    }
+}
